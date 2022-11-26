@@ -1,7 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
-  // content: ["./*.html"],
+  // content: ["./src/**/*.{html,js}"],
+  content: ["./*.html"],
   theme: {
     // Custom Tailwind Breakpoints
     screen: {
